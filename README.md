@@ -1,3 +1,3 @@
 # precedent-sandbox
 
-Start the server with: python server.py
+Start the server with: make run
